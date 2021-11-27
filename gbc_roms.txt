@@ -1,0 +1,15 @@
+gbc_roms.txt
+Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).srm
+Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip
+Legend of Zelda, The_ Oracle of Ages.srm
+Legend of Zelda, The_ Oracle of Ages.zip
+Legend of Zelda, The_ Oracle of Seasons.zip
+Pokemon - Crystal Version (UE) (V1.1) [C][!].rtc
+Pokemon - Crystal Version (UE) (V1.1) [C][!].srm
+Pokemon - Crystal Version (UE) (V1.1) [C][!].zip
+Pokemon_ Gold Version.zip
+Pokemon_ Silver Version.zip
+pokemonYellow.zip
+Super Mario Bros. Deluxe (USA, Europe) (Rev 2).srm
+Super Mario Bros. Deluxe (USA, Europe) (Rev 2).zip
+Wario Land 3 (World) (En,Ja).zip
